@@ -1,0 +1,42 @@
+h1{
+   text-align: center;
+}
+fieldset{
+    width: 30%;
+    margin-left: 500px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+p{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: 25px;
+    font-size: large;
+}
+.button{
+    margin-left: 20px;
+    background-color: #3e72ff;
+    color: aliceblue;
+    height: 30px;
+    width: 50px;
+    letter-spacing: 5px;
+    text-align: center;
+}
+nav{
+    border-collapse: separate;
+    border-spacing: 40px 5px;
+    font-weight: bold;
+    font-size: larger;
+    background-color: #47a7ff;
+    margin-top: 10px;
+    width: 100%;
+    letter-spacing: 10px;
+}
+body{
+    background-color: beige;
+    opacity: 40%;
+}

@@ -1,0 +1,57 @@
+
+.aside{
+    float: right;
+    width: 18%;
+
+}
+.footer{
+    text-align: center;
+}
+.ul{
+    list-style: square;
+}
+h1{
+    font-weight: bolder;
+}
+.nav{
+    border-collapse: separate;
+    border-spacing: 40px 5px;
+    font-weight: bold;
+    font-size: larger;
+    background-color: #47a7ff;
+
+    width: 100%;
+    letter-spacing: 10px;
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+ul a{
+    color: #0207ff;
+    letter-spacing: 5px;
+}
+article{
+    background-color: beige;
+    text-align: left;
+    margin-left: 300px;
+    margin-right:300px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: -15px;
+}
+body{
+    background-image: url("../images/背景1.jpg");
+    background-size: 100%;
+    opacity: 40%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.button{
+    background-color: #3e72ff;
+    color: aliceblue;
+    height: 30px;
+    width: 50px;
+    letter-spacing: 5px;
+    text-align: center;
+}
