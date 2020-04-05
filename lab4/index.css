@@ -1,0 +1,57 @@
+#carousel-inner{
+    width: 640px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.navbar-brand{
+    padding: 6px 6px;
+}
+footer{
+    background-color: #333333;
+}
+.row{
+    margin-top: 30px;
+    margin-left: 110px;
+}
+.copyright{
+    color: white;
+    text-align: center;
+}
+footer a{
+    color: white;
+}
+
+.navbar-inverse{
+    border-color: #47a7ff;
+    border-color: #47a7ff;
+}
+.container-fluid{
+    background-color: #47a7ff;
+    border-color: #47a7ff;
+}
+.navbar-inverse .navbar-nav > .active > a{
+    background-color: #5bc0de;
+}
+.navbar-inverse .navbar-nav > .active > a:hover{
+    color: #0f0f0f;
+    background-color: #5bc0de;
+}
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus{
+    background-color: #5bc0de;
+}
+.navbar-inverse .navbar-nav > li > a{
+   color: white;
+}
+.navbar-inverse .navbar-nav > li > a:hover{
+    color: #0f0f0f;
+}
+#grid{
+    margin-left: 90px;
+}
+h3{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#copyrightRow{
+    background-color: #47a7ff;
+}
